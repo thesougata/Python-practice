@@ -6,7 +6,9 @@ This repo contains all my daily Python coding practice files — each file is na
 ---
 
 ## 📘 About This Repository
-- Each file includes **one question (as a comment)** and **its complete solution** written by me.  
+- Each file includes **one question (as a comment)** and **its complete solution** written by me.
+- **Total Questions Solved:** 35 ✅  
+- **Last Updated:** October 27, 2025 🗓️ 
 - I’m currently learning Python step-by-step — from basics to intermediate level.  
 - Topics covered so far include:
   - Variables & Data Types  
