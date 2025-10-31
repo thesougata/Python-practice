@@ -7,20 +7,22 @@ This repo contains all my daily Python coding practice files — each file is na
 
 ## 📘 About This Repository
 - Each file includes **one question (as a comment)** and **its complete solution** written by me.
-- **Total Questions Solved:** 35 ✅  
-- **Last Updated:** October 27, 2025 🗓️ 
+- **Total Questions Solved:** 63 ✅  
+- **Last Updated:** October 31, 2025 🗓️ 
 - I’m currently learning Python step-by-step — from basics to intermediate level.  
 - Topics covered so far include:
   - Variables & Data Types  
   - Conditional Statements  
   - Loops (for / while)  
-  - Functions  
+  - Functions
+  - List
+  - Tuples
   - (More coming soon…)
 
 ---
 
 ## 📈 Learning Progress
-Currently solved: **35 questions**  
+Currently solved: **63 questions**  
 > I keep updating this repository regularly as I practice new problems.  
 > My goal is to reach 100+ questions covering all major Python topics.
 
@@ -47,7 +49,7 @@ Python-Practice/
 ---
 
 ## 🚀 Upcoming Topics
-- Lists, Tuples, Sets, Dictionaries  
+- Sets, Dictionaries  
 - String Operations  
 - File Handling  
 - Small Mini Projects
